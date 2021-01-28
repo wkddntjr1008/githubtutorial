@@ -1,0 +1,25 @@
+전역 사용자명/이메일 구성하기
+git config - -global user.name “Your name”
+git config - -global user.email “Your email address”
+저장소 복제하기
+git clone <저장소 url>
+git add <파일>
+git commit -m “<메시지>”
+git branch
+지역과 원격을 포함한 모든 브랜치 목록 보기
+git branch -a
+git pull 
+git fetch
+git merge
+새로운 원격 저장소 추가하기
+git remote add <원격 저장소> <저장소 url>
+
+init => 깃 저장소로 현재폴더 지정
+
+clone 저장소 주소 => 깃 저장소에서 가져옵니다. 
+
+branch
+
+https://goddaehee.tistory.com/274
+
+브랜치 생성 푸시관련
