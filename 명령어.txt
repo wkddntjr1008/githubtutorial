@@ -23,3 +23,9 @@ branch
 https://goddaehee.tistory.com/274
 
 브랜치 생성 푸시관련
+
+// 원격 저장소와 로컬 저장소에 있는 파일을 삭제한다.
+$ git rm [File Name]
+// 원격 저장소에 있는 파일을 삭제한다. 로컬 저장소에 있는 파일은 삭제하지 않는다.
+$ git rm --cached [File Name]
+https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html
