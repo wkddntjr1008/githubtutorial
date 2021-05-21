@@ -1,6 +1,13 @@
 깃 처음 저장소 생성하면 
 최초커밋 이후에 브랜치 생성가능
 
+git config - -global color.ui “auto”
+새로운 저장소 초기화하기
+mkdir /path/newDir
+cd /path/newDir
+git init
+
+
 전역 사용자명/이메일 구성하기
 git config - -global user.name “Your name”
 git config - -global user.email “Your email address”
